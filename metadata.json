@@ -1,0 +1,6 @@
+{
+  "name": "Catering MIP",
+  "description": "Monitoring Daily Drop Zone Catering, Berita Acara Serah Terima, dan WhatsApp Dispatch Otomatis PT Mucoindo Prakasa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
